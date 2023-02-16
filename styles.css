@@ -1,0 +1,33 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.first-table, th, td, tr{
+    border: 1px solid rgb(52, 135, 207);
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+td{
+    width: 150px;
+    height: 20px;
+}
+input{
+    border:none;
+}
+.head-th{
+    background-color: rgb(52, 135, 207);
+}
+.grey-stripe{
+    background-color: rgb(218, 230, 255);
+}
+.bottom-td{
+    border: none;
+    margin-top:50px;
+}
+.submit,button{
+    border: 1px solid grey;
+    margin: 10px 50px;
+}
