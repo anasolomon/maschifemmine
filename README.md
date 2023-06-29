@@ -3,7 +3,6 @@
 A fun PHP exercise, in italian! Sorry to anybody English looking at this ^^  
  - These are the inputs that they user is allowed to fill
 ![](./imgs/input.png)
-[comment]: <<img src="./imgs/input.png" alt="input" width="200"/>> 
 ### The exercise 💪  
  - In this exercise after you input Italy's total male and female population numbers then you have to put the male and female population specific to each of the regions on the left (Piemonte, Valle d-Aosta, Liguria, Lombardia, Alessandria)
  -  Clculate the region's totals individually and output it to their right in 'Totali'
